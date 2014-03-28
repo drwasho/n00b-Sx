@@ -7,7 +7,7 @@ Ultimately, the reason for doing this is to allow users to start using [Stealth 
 
 ## Instructions
 
-1. Install Sx [here](https://github.com/spesmilo/sx). Open the root terminal (you should at least know how to do that), and type in:
+1) Install Sx [here](https://github.com/spesmilo/sx). Open the root terminal (you should at least know how to do that), and type in:
 
 ```$ wget http://sx.dyne.org/install-sx.sh```
 
@@ -15,7 +15,7 @@ Navitage (either with the Terminal, or using Nautilus [equivalent to Finder or W
 
 ```$ sudo bash ./install-sx.sh```
 
-2. Download the scripts from the 'n00b-Sx' repo to a directory of your choice. You can either execute the scripts from the Terminal or make the scripts executable upon clicking by first opening the Terminal and typing:
+2) Download the scripts from the 'n00b-Sx' repo to a directory of your choice. You can either execute the scripts from the Terminal or make the scripts executable upon clicking by first opening the Terminal and typing:
 
 ```chmod +x ./<filename>```
 
