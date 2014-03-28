@@ -10,11 +10,11 @@ The goal of this project is to create a bootstrapped version of Sx for folks wit
 2. Navigate to the folder the scripts with the terminal // [You're welcome](http://askubuntu.com/questions/207442/how-to-add-open-terminal-here-to-nautilus-context-menu)
 3. To make the scripts executable upon clicking, type the following in the terminal:
 
-'chmod +x <filename>'
+'''chmod +x <filename>'''
 
 E.g.
 
-'chmod +x miniwallet.sh'
+'''chmod +x miniwallet.sh'''
 
 Have fun from there.
 
