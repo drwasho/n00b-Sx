@@ -7,10 +7,15 @@ Ultimately, the reason for doing this is to allow users to start using [Stealth 
 
 ## Instructions
 
-1. Download the scripts to a directory on Linux (use a dedicated folder)
-2. Open the Linux terminal (you should at least know how to do that)
-2. Navigate to the folder the scripts with the terminal // [You're welcome](http://askubuntu.com/questions/207442/how-to-add-open-terminal-here-to-nautilus-context-menu)
-3. To make the scripts executable upon clicking, type the following in the terminal:
+1. Install Sx [here](https://github.com/spesmilo/sx). Open the root terminal (you should at least know how to do that), and type in:
+
+```$ wget http://sx.dyne.org/install-sx.sh```
+
+Navitage (either with the Terminal, or using Nautilus [equivalent to Finder or Windows Explorer]) to 'usr/loca/src/sx-git'. Double click './install-sx.sh' to install Sx, or [open the Terminal from Nautilus](http://askubuntu.com/questions/207442/how-to-add-open-terminal-here-to-nautilus-context-menu) and type the folllowing:
+
+```$ sudo bash ./install-sx.sh```
+
+2. Download the scripts from the 'n00b-Sx' repo to a directory of your choice. You can either execute the scripts from the Terminal or make the scripts executable upon clicking by first opening the Terminal and typing:
 
 ```chmod +x ./<filename>```
 
@@ -24,7 +29,7 @@ Have fun from there.
 
 **miniwallet.sh**
 
-  Creates a new private key file, with your private key. Edit the script if you want to create a new private key file with a different name.
+Creates a new private key file, with your private key. Edit the script if you want to create a new private key file with a different name.
 
 ## Contribute
 
