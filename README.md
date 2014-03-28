@@ -3,7 +3,7 @@ n00b-Sx
 
 The goal of this project is to create a bootstrapped version of [Sx](https://sx.dyne.org/) for folks without much Linux or command line experience to start using Sx. The way we do this is by writing shell scripts that are executable for the user to run certain functions in Sx. 
 
-Ultimately, the reason for doing this is to allow users to start using stealth addresses via Sx asap. No doubt this project will be redundant as wallet software starts to make stealth wallets an easy experience.
+Ultimately, the reason for doing this is to allow users to start using [Stealth addresses](https://wiki.unsystem.net/index.php/DarkWallet/Stealth) via Sx asap. No doubt this project will be redundant as wallet software starts to make stealth wallets an easy experience.
 
 ## Instructions
 
