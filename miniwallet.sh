@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 sx newkey
 sx newkey > private.key
