@@ -29,7 +29,7 @@ Have fun from there.
 
 **Start.sh**
 
-A number of dialog boxes that allow you to create a new private key and stealth address pubkey and ephemeral key pair.
+A number of dialog boxes that allow you to create a new private key and stealth address pubkey and ephemeral key pair. **Text files with the keys will be created in the location of the script!**
 
 ![alt text](http://s11.postimg.org/uug1bf3dv/Aggregate.png "Dialog Boxes")
 
