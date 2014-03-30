@@ -31,6 +31,8 @@ Have fun from there.
 
 A number of dialog boxes that allow you to create a new private key and stealth address pubkey and ephemeral key pair.
 
+![alt text](http://s11.postimg.org/uug1bf3dv/Aggregate.png "Dialog Boxes")
+
 ## Contribute
 
 If you'd like to contribute, please commit: 
