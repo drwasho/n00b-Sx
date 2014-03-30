@@ -21,15 +21,15 @@ Navitage (either with the Terminal, or using Nautilus [equivalent to Finder or W
 
 E.g.
 
-```chmod +x ./miniwallet.sh```
+```chmod +x ./Start.sh```
 
 Have fun from there.
 
 ## Scripts
 
-**miniwallet.sh**
+**Start.sh**
 
-Creates a new private key file, with your private key. Edit the script if you want to create a new private key file with a different name.
+A number of dialog boxes that allow you to create a new private key and stealth address pubkey and ephemeral key pair.
 
 ## Contribute
 
